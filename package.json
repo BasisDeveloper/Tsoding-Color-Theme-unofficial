@@ -9,6 +9,7 @@
     "categories": [
         "Themes"
     ],
+    "repository": {},
     "contributes": {
         "themes": [
             {
