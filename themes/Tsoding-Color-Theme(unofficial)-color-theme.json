@@ -539,7 +539,7 @@
 		//"textBlockQuote.background": "#7f7f7f1a",
 		//"textBlockQuote.border": "#007acc80",
 		//"textCodeBlock.background": "#0a0a0a66",
-		"textLink.activeForeground": "#ea00ff",
+		"textLink.activeForeground": "#f8f4e2",
 		"textLink.foreground": "#d8baba",
 		//"textPreformat.foreground": "#d7ba7d",
 		//"textSeparator.foreground": "#ffffff2e",
