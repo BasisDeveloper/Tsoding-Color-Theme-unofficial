@@ -9,7 +9,7 @@
     "categories": [
         "Themes"
     ],
-    "repository": {},
+    "repository": "https://github.com/BasisDeveloper/Tsoding-Color-Theme-unofficial",
     "contributes": {
         "themes": [
             {
