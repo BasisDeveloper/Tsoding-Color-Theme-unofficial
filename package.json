@@ -6,6 +6,7 @@
     "engines": {
         "vscode": "^1.68.0"
     },
+    "icon": "icons/tsoding-face-pog.png",
     "categories": [
         "Themes"
     ],
