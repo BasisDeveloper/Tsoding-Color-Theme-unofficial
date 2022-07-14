@@ -4,6 +4,8 @@
 #include <memory.h>
 #include <exception>
 
+//NOTE: this isn't actually supposed to be code that does anything, it's just so I can test the theme.
+
 int main()
 {
     char buffer[256];
@@ -73,7 +75,7 @@ int main()
         output_file_name[1 + index] = buffer[index];
     }
 
-    output_file_name[output_file_name_size -1] = '\"';
+    output_file_name[output_file_name_size - 1] = '\"';
 
     output_file_name[output_file_name_size] = '\0';
 
