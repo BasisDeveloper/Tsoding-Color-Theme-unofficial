@@ -9,6 +9,6 @@ They *wanted* me to also link a [repo](https://github.com/BasisDeveloper/Tsoding
 
 <sup> *If anything glows bright red in your face, it's because I didn't know what color that certain UI properties were affecting, and I wanted it to be obvious so I can fix it later.* </sup>
 
-If you have any problems with the theme either steal it and fix it for yourself, notify me and I'll patch in a jiffy, or both.
+If you have any problems with the theme, either steal it and fix it for yourself, notify me and I'll patch in a jiffy, or both.
 
 **Enjoy!**
