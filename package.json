@@ -15,9 +15,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Tsoding-Color-Theme(unofficial)",
+                "label": "Tsoding-Color-Theme(unofficial)-dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Tsoding-Color-Theme(unofficial)-color-theme.json"
+                "path": "./themes/tsoding-theme-dark"
+            },
+            {
+                "label": "Tsoding-Color-Theme(unofficial)-light",
+                "uiTheme": "vs",
+                "path": "./themes/tsoding-theme-light"
             }
         ]
     }
