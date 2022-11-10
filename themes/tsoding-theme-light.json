@@ -3,8 +3,8 @@
 	"type": "light",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
-		"function": "#626319",
-		"method": "#626319",
+		"function": "#5c5d1f",
+		"method": "#5c5d1f",
 		"parameter": {
 			"foreground": "#919191",
 		},
