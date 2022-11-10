@@ -17,7 +17,7 @@
             {
                 "label": "Tsoding-Color-Theme(unofficial), Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/tsoding-theme-dark"
+                "path": "./themes/tsoding-theme-dark.json"
             },
             {
                 "label": "Tsoding-Color-Theme(unofficial), Light",
