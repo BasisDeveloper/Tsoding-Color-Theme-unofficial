@@ -167,7 +167,7 @@
 		"editorGroup.dropBackground": "#f7f8f56c",
 		//"editorGroup.dropIntoPromptBackground": "#ff0000",
 		//"editorGroup.dropIntoPromptForeground": "#cccccc",
-		"editorGroupHeader.noTabsBackground": "#3f3f3f",
+		"editorGroupHeader.noTabsBackground": "#ebebe4",
 		"editorGroupHeader.tabsBackground": "#f7f8f5",
 		//"editorGutter.addedBackground": "#ff0000",
 		//"editorGutter.commentRangeForeground": "#c5c5c5",
