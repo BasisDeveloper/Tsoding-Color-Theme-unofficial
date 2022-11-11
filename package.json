@@ -2,7 +2,7 @@
     "name": "tsoding-color-theme-unofficial",
     "displayName": "Tsoding Color Theme (unofficial)",
     "description": "A theme based on the Tsoding Daily Youtube channel's frequently used code editor theme.",
-    "version": "0.0.9",
+    "version": "0.0.10",
     "engines": {
         "vscode": "^1.68.0"
     },
