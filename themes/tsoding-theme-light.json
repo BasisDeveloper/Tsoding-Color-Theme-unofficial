@@ -3,11 +3,15 @@
 	"type": "light",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
+		"function": {
+			// ...
+		},
 		"parameter": {
 			"foreground": "#777777ee",
 		},
 		"type": {
 			"foreground": "#606060",
+			"underline": true
 		},
 		"namespace": {
 			"foreground": "#464929bd",
@@ -74,10 +78,10 @@
 		//"breadcrumb.background": "#eaeae6",
 		//"breadcrumb.focusForeground": "#e0e0e0",
 		//"breadcrumb.foreground": "#cccccccc",
-		"breadcrumbPicker.background": "#ff0000",
-		"button.background": "#ece2ae",
-		"button.foreground": "#574f26bf",
-		"button.hoverBackground": "#dbd2ad",
+		//"breadcrumbPicker.background": "#ff0000",
+		"button.background": "#fffbd4",
+		"button.foreground": "#504928bf",
+		"button.hoverBackground": "#f5f1d2",
 		//"button.secondaryBackground": "#ff0000",
 		//"button.secondaryForeground": "#ff0000",
 		//"button.secondaryHoverBackground": "#ff0000",
@@ -438,9 +442,8 @@
 		//"statusBar.debuggingBackground": "#cc6633",
 		//"statusBar.debuggingForeground": "#ffffff",
 		//"statusBar.focusBorder": "#ffffff",
-		//"statusBar.foreground": "#ffffff",
-		"statusBar.noFolderBackground": "#4c4c4c",
-		"statusBar.noFolderForeground": "#ffffff",
+		"statusBar.noFolderBackground": "#eeeeee",
+		"statusBar.noFolderForeground": "#5c5e35",
 		//"statusBarItem.activeBackground": "#ffffff2e",
 		//"statusBarItem.compactHoverBackground": "#ffffff33",
 		//"statusBarItem.errorBackground": "#c72e0f",
@@ -650,7 +653,7 @@
 		//"sideBarTitle.foreground": "#ff0000",
 		"statusBar.border": "#c7c7c0",
 		//"statusBar.debuggingBorder": null,
-		"statusBar.foreground": "#6b6d34",
+		"statusBar.foreground": "#5c5e35",
 		"statusBar.debuggingForeground": "#ffffff",
 		//"statusBar.noFolderBorder": null,
 		//"tab.activeBorder": null,
@@ -663,7 +666,7 @@
 		//"tab.unfocusedHoverBackground": null,
 		//"tab.unfocusedHoverBorder": null,
 		//"tab.unfocusedHoverForeground": null,
-		"terminal.background": "#f7f8f5",
+		"terminal.background": "#f0f0f0",
 		//"terminal.findMatchBorder": null,
 		//"terminal.findMatchHighlightBorder": null,
 		//"terminal.selectionForeground": null,

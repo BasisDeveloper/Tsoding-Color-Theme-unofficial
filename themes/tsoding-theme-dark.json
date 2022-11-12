@@ -7,13 +7,13 @@
 			"foreground": "#919191",
 		},
 		"type": {
-			"foreground": "#eae2b9", // This also looks great : #D6B69A
+			"foreground": "#eae2b9",
 		},
 		"namespace": {
-			"foreground": "#919191", // This one is good too : "#919191"
+			"foreground": "#919191",
 		},
 		"macro": {
-			"foreground": "#bfc5bf", // This one is decent, it could be edited though : #d9d9d9
+			"foreground": "#bfc5bf",
 		}
 	},
 	"colors": {
