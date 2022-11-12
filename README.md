@@ -1,6 +1,6 @@
 # Description
 
-[- Tsoding's Youtube channel -](https://www.youtube.com/c/TsodingDaily)
+#### [Tsoding Daily's Youtube Channel](https://www.youtube.com/c/TsodingDaily)
 
 This is a theme based on the Tsoding Daily Youtube channel's frequently used code editor theme, the older one. 
 *I posted this primarily to sync it between my computers.*
