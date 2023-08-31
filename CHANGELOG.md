@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 (none)
 
+## [2.0.3] - 2023-8-31
+
+### Fixed
+
+- colored the nullptr and true/false tokens.
+
 ## [2.0.0] - 2023-8-31
 
 *This change is a massive visual overhaul. I'm VERY sorry if someone
