@@ -2,7 +2,7 @@
     "name": "tsoding-color-theme-2021-unofficial",
     "displayName": "Tsoding's Theme (2021)",
     "description": "A theme based on the Tsoding Daily Youtube channel's frequently used code editor theme.",
-    "version": "2.0.0",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.68.0"
     },
@@ -15,19 +15,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Tsoding Color Theme, Dark",
+                "label": "Tsoding Theme (2021)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/tsoding-theme-dark.json"
             },
             {
-                "label": "Tsoding Color Theme, Darker",
+                "label": "Tsoding Theme (2021), Darker",
                 "uiTheme": "vs-dark",
                 "path": "./themes/tsoding-theme-darker.json"
-            },
-            {
-                "label": "Tsoding Color Theme, Light",
-                "uiTheme": "vs",
-                "path": "./themes/tsoding-theme-light.json"
             }
         ]
     }

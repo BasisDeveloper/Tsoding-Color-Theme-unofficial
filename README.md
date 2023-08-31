@@ -10,10 +10,16 @@ This theme has made special inclusions that utilize IDEs, syntax highlighting ha
 
 If you're looking for Tsoding's current theme for VSCode take a look at [JoaoAJMAto's Tsoding Theme](https://marketplace.visualstudio.com/items?itemName=JoaoAJMAtos.tsoding-theme), it's great!
 
-— This Theme's [Github Repository](https://github.com/BasisDeveloper/Tsoding-Color-Theme-unofficial) —
+## Dark Theme
+<div align="center">
+      <img src="screenshots/Tsoding Theme - Dark.png">
+</div>
+
+## Custom Darker Theme
+<div align="center">
+      <img src="screenshots/Tsoding Theme - Darker.png">
+</div>
 
 **Enjoy!**
 
-#TODO (I should really post screenshots, its foolish not to).
-
-**Quick Tip**: If you're making your own theme, but don't know what the name of any of the tokens are input `Inspect Editor Tokens And Scopes` into the VSCode command palette, then click any token and find in depth information about it! (you without this: 😭).
+***Quick Tip**: If you're making your own theme, but don't know what the name of any of the tokens are input `Inspect Editor Tokens And Scopes` into the VSCode command palette, then click any token and find in depth information about it! (you without this: 😭).*
