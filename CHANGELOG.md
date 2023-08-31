@@ -9,6 +9,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ...
 
+## [1.1.0] - 2023-8-30
+
+### Added
+
+- Added "darker" color theme
+- Improved description
+
 ## [1.0.0] - 2022-11-10
 
 ### Added

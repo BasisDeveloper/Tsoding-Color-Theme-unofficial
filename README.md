@@ -2,11 +2,15 @@
 
 #### [Tsoding Daily's Youtube Channel](https://www.youtube.com/c/TsodingDaily)
 
-This is a theme based on the Tsoding Daily Youtube channel's frequently used code editor theme, the older one. 
-*I posted this primarily to sync it between my computers.*
+Hello everyone, and welcome to yet another VSCode theme.  
 
-They *wanted* me to also link a [repo](https://github.com/BasisDeveloper/Tsoding-Color-Theme-unofficial), so, sure.  
+This theme is based on one of Tsoding's earliest color themes before it turned to the "*dark side*" <sup>*(higher contrast and darker)*</sup>, its seen [in this video](https://www.youtube.com/watch?v=9yt7oWciNfM&t=1s&ab_channel=TsodingDaily)!   
+But a darker and custom light theme are also supplied as well.
 
-<sup> *If anything glows bright red in your face, it's because I didn't know what color that certain UI properties were affecting, and I wanted it to be obvious so I can fix it later.* </sup>
+If you're looking for Tsoding's current theme for VSCode take a look at [JoaoAJMAto's Tsoding Theme](https://marketplace.visualstudio.com/items?itemName=JoaoAJMAtos.tsoding-theme), it's great!
+
+— This Theme's [Github Repository](https://github.com/BasisDeveloper/Tsoding-Color-Theme-unofficial) —
 
 **Enjoy!**
+
+#TODO (I should really post screenshots, its foolish not to)
