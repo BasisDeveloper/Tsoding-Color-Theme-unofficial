@@ -717,7 +717,9 @@
 				"support.type.primitive",
 				"support.type.builtin",
 				"constant.language.false.cpp",
+				"constant.language.true.cpp",
 				"constant.language.nullptr.cpp"
+
 			],
 			"settings": {
 				"foreground": "#EAE2B9"
