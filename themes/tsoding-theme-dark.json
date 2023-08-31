@@ -4,17 +4,24 @@
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
 		"parameter": {
-			"foreground": "#919191",
+			// to be more true the original theme types shouldn't be colored
+			// "foreground": "#919191",
 		},
 		"type": {
-			"foreground": "#eae2b9",
+			// to be more true the original theme types shouldn't be colored
+			//"foreground": "#eae2b9",
 		},
 		"namespace": {
+			// I don't know if I like this anymore.
+			// since Tsoding used C namespaces don't exist and weren't accounted for in his theme,
+			// but since we're in C++ (at times), let's work towards clarity, and give the namespaces 
+			// some coloring.
 			"foreground": "#919191",
 		},
 		"macro": {
-			"foreground": "#bfc5bf",
-		}
+			// to be more true the original theme types shouldn't be colored
+			// "foreground": "#bfc5bf",
+		},
 	},
 	"colors": {
 		"editor.background": "#3f3f3f",
@@ -31,7 +38,7 @@
 		"editorBracketHighlight.foreground4": "#bfc5bf",
 		"editorBracketHighlight.foreground5": "#bfc5bf",
 		"editorBracketHighlight.foreground6": "#bfc5bf",
-		"editorBracketHighlight.unexpectedBracket.foreground": "#ff0000",
+		"editorBracketHighlight.unexpectedBracket.foreground": "#ff0000", // this color could be less abrasive.
 		"editorBracketMatch.background": "#7575753a",
 		"editorBracketMatch.border": "#00000000",
 		"editorBracketPairGuide.activeBackground1": "#383838",
@@ -72,8 +79,8 @@
 		//"breadcrumb.focusForeground": "#e0e0e0",
 		//"breadcrumb.foreground": "#cccccccc",
 		//"breadcrumbPicker.background": "#ff0000",
-		"button.background": "#ece2ae",
-		"button.foreground": "#795353",
+		"button.background": "#99bde8",
+		"button.foreground": "#000000",
 		//"button.hoverBackground": "#1177bb",
 		//"button.secondaryBackground": "#ff0000",
 		//"button.secondaryForeground": "#ff0000",
@@ -692,27 +699,6 @@
 		},
 		{
 			"scope": [
-				"punctuation",
-				"meta.brace",
-				"keyword.operator.type.annotation"
-			],
-			"settings": {
-				"foreground": "#FFB459"
-			}
-		},
-		{
-			"scope": [
-				"string",
-				"punctuation.definition.string",
-				"constant",
-				"variable.language"
-			],
-			"settings": {
-				"foreground": "#D6B69A"
-			}
-		},
-		{
-			"scope": [
 				"comment",
 				"comment punctuation",
 				"comment storage"
@@ -724,12 +710,15 @@
 		{
 			"scope": [
 				"keyword",
+				"keyword.operator",
+				"keyword.control",
 				"storage",
+				"storage.type",
 				"support.type.primitive",
 				"support.type.builtin"
 			],
 			"settings": {
-				"foreground": "#DE7E43"
+				"foreground": "#EAE2B9"
 			}
 		},
 		{
@@ -739,13 +728,28 @@
 			}
 		},
 		{
+			"scope": [
+				"keyword.control.directive",
+				"entity.other.attribute-name.pragma.preprocessor.cpp",
+				"punctuation.definition.directive",
+			],
+			"settings": {
+				"foreground": "#99bde8"
+			}
+		},
+		{
 			"scope": "punctuation.definition.comment",
 			"settings": {
 				"foreground": "#7D9C89"
 			}
 		},
 		{
-			"scope": "string",
+			"scope": [
+				"string",
+				"punctuation.definition.string.begin",
+				"punctuation.separator.continuation", // what does this do?
+				"punctuation.definition.string.end"
+			],
 			"settings": {
 				"foreground": "#BD9393"
 			}
@@ -757,38 +761,13 @@
 			}
 		},
 		{
-			"scope": "keyword - keyword.operator",
-			"settings": {
-				"foreground": "#EAE2B9"
-			}
-		},
-		{
-			"scope": "keyword.control",
-			"settings": {
-				"foreground": "#EAE2B9"
-			}
-		},
-		{
-			"scope": "storage",
-			"settings": {
-				"foreground": "#EAE2B9"
-			}
-		},
-		{
-			"scope": "storage.type",
-			"settings": {
-				"foreground": "#EAE2B9"
-			}
-		},
-		{
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#BFC5BF"
+				"foreground": "#bbbbbb"
 			}
 		},
 		{
 			"scope": [
-				"punctuation",
 				"meta.brace",
 				"keyword.operator.type.annotation"
 			],
@@ -797,23 +776,29 @@
 			}
 		},
 		{
-			"scope": [
-				"keyword",
-				"storage",
-				"support.type.primitive",
-				"support.type.builtin"
-			],
+			"scope": "punctuation.separator.namespace",
 			"settings": {
-				"foreground": "#EAE2B9"
+				"foreground": "#919191",
+				//"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "storage.type.built-in.cpp",
+			"settings": {
+				"foreground": "#bbbbbb"
 			}
 		},
 		{
 			"scope": [
 				"constant",
-				"variable.language"
+				"constant.numeric",
+				"constant.other",
+				"keyword.other.unit",
+				"keyword.other.unit.px",
+				"keyword.other.unit.percentage",
 			],
 			"settings": {
-				"foreground": "#D6B69A"
+				"foreground": "#bbbbbb"
 			}
 		},
 		{

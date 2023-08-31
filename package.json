@@ -1,8 +1,8 @@
 {
-    "name": "tsoding-color-theme-unofficial",
-    "displayName": "Tsoding Color Theme (unofficial)",
+    "name": "tsoding-color-theme-2021-unofficial",
+    "displayName": "Tsoding's Theme (2021)",
     "description": "A theme based on the Tsoding Daily Youtube channel's frequently used code editor theme.",
-    "version": "1.1.0",
+    "version": "2.0.0",
     "engines": {
         "vscode": "^1.68.0"
     },
