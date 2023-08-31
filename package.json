@@ -22,12 +22,12 @@
     "contributes": {
         "themes": [
             {
-                "label": "Tsoding Theme (2021)",
+                "label": "Tsoding theme (2021)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/tsoding-theme-dark.json"
             },
             {
-                "label": "Tsoding Theme (2021), Darker",
+                "label": "Tsoding theme (2021), darker",
                 "uiTheme": "vs-dark",
                 "path": "./themes/tsoding-theme-darker.json"
             }

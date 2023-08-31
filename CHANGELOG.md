@@ -7,20 +7,32 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-...
+(none)
 
-## [1.1.0] - 2023-8-30
+## [2.0.0] - 2023-8-31
+
+*This change is a massive visual overhaul. I'm VERY sorry if someone
+is actually using this theme and hates the new changes, but I am pretty sure no one uses this...
+if you do, I'll create a "Custom Classic" and send it over for you on request.*
 
 ### Added
 
-- Added "darker" color theme
-- Improved description
+- "Darker" color theme
+
+### Removed
+
+- light theme version (since it was never public, no one will notice).
+
+### Changed
+
+- Overhauled the theme to make it 99.9% faithful to Tsoding's 2021 color theme.
+- Improved readme/description
 
 ## [1.0.0] - 2022-11-10
 
 ### Added
 
-- Added light theme version
+- light theme version
   
 ### Changed
 

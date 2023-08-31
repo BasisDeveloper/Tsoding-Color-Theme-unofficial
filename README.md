@@ -4,13 +4,13 @@
     <h3>
         <a href="https://www.youtube.com/c/TsodingDaily">Tsoding Daily's Youtube Channel</a></>
     </>
-    <img src="gifs/tsoding-pog-peek.gif.gif" alt="this slowpoke moves"  width="90" /> 
+    <img src="gifs/tsoding-pog-peek.gif.gif" alt="this slowpoke moves"  width="90" />
 </div>
- 
+
 Hello everyone, and welcome to yet another VSCode theme.  
 
 This theme is based on one of Tsoding's earliest color themes before it turned to the "dark side" (higher contrast and darker), its seen in Tsoding's ['Writing My Own Malloc in C'](https://www.youtube.com/watch?v=sZ8GJ1TiMdk&ab_channel=TsodingDaily) video! But a darker and custom light theme are also supplied as well.  
-This theme has made special inclusions that utilize IDEs, syntax highlighting has been added to keywords and tokens that originally weren't possible with Tsoding's editor (i.e. a darker color for function local variables). 
+This theme has made special inclusions that utilize IDEs, syntax highlighting has been added to keywords and tokens that originally weren't possible with Tsoding's editor (i.e. a darker color for function local variables).
 
 If you're looking for Tsoding's current theme for VSCode take a look at [JoaoAJMAto's Tsoding Theme](https://marketplace.visualstudio.com/items?itemName=JoaoAJMAtos.tsoding-theme), it's great!
 
