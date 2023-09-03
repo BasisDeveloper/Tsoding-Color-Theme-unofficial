@@ -1,8 +1,8 @@
 {
     "name": "tsoding-color-theme-unofficial",
     "displayName": "Tsoding Theme (2021)",
-    "description": "A theme based on the Tsoding's code editor color theme from 2021.",
-    "version": "2.0.3",
+    "description": "A C/C++ color theme based on the Tsoding's code editor color theme from 2021 (from Emacs).",
+    "version": "2.0.6",
     "engines": {
         "vscode": "^1.68.0"
     },

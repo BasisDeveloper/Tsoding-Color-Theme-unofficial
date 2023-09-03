@@ -78,12 +78,12 @@
 		//"breadcrumb.focusForeground": "#e0e0e0",
 		//"breadcrumb.foreground": "#cccccccc",
 		//"breadcrumbPicker.background": "#ff0000",
-		"button.background": "#99bde8",
+		"button.background": "#a6b69b",
 		"button.foreground": "#000000",
-		"button.hoverBackground": "#accbf1",
-		"button.secondaryBackground": "#99bde8",
+		"button.hoverBackground": "#93a189",
+		"button.secondaryBackground": "#a6b69b",
 		"button.secondaryForeground": "#000000",
-		"button.secondaryHoverBackground": "#accbf1",
+		"button.secondaryHoverBackground": "#93a189",
 		//"charts.blue": "#2182c2",
 		//"charts.foreground": "#cccccc",
 		//"charts.green": "#89d185",
@@ -719,7 +719,6 @@
 				"constant.language.false.cpp",
 				"constant.language.true.cpp",
 				"constant.language.nullptr.cpp"
-
 			],
 			"settings": {
 				"foreground": "#EAE2B9"
@@ -752,7 +751,9 @@
 				"string",
 				"punctuation.definition.string.begin",
 				"punctuation.separator.continuation", // what does this do?
-				"punctuation.definition.string.end"
+				"punctuation.definition.string.end",
+				"constant.other.placeholder",
+				"constant.character.escape.cpp" // it would be nice to highlight this, but I don't think Emacs does.
 			],
 			"settings": {
 				"foreground": "#BD9393"

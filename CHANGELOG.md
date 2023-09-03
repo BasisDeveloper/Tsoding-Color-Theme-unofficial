@@ -9,6 +9,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 (none)
 
+## [2.0.6] - 2023-9-3
+
+### Changed
+
+- the "placeholder symbol" (%s) is now the same color as strings.
+- the color of escape codes in strings were white, now they're the same as the string color.
+- the color of the primary buttons in VSCode's interface was changed to green instead of blue.
+
+## [2.0.4] - 2023-8-31
+
+### Fixed
+
+- colored `true` token... I forgot them...
+
 ## [2.0.3] - 2023-8-31
 
 ### Fixed
